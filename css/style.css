@@ -8,7 +8,7 @@ body{
     background-attachment: fixed;
     background-size:cover;
     background-position: center;
-    height:10000px;
+    height: 5100px;
     font-family: "Poppins", sans-serif;
 }
 /*end body*/
@@ -572,7 +572,7 @@ input[type="submit"]{
 
 /*start footer*/
 .footer{
-    heighT:500px;
+    heighT:350px;
     background:#fff;
   
     padding-top:5%;
